@@ -4,7 +4,7 @@ It's can convert from jpgs/pngs to sprite image, or convert from sprite image to
 ![image](https://github.com/Hanleon/SpriteCreater/blob/main/1.jpg)
 
 ## How to use
-#### sprite -> pngs
+### sprite -> pngs
 __Sep1. choose pngs folder  
 Sep2. select direction, Left->Right / Up->Down  
 Sep3. set width and height line number, and image format  
