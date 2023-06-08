@@ -1,7 +1,8 @@
 # SpriteCreater
 A tools for sprite image.
-It's can convert from jpgs/pngs to sprites image, or convert from sprites image to jpgs/pngs.
+It's can convert from jpgs/pngs to sprite image, or convert from sprite image to jpgs/pngs.
 ![image](https://github.com/Hanleon/SpriteCreater/blob/main/1.jpg)
 
 ## How to use
-![image](https://github.com/Hanleon/SpriteCreater/1.jpg)
+#### sprite -> pngs
+![image](https://github.com/Hanleon/SpriteCreater/blob/main/2.jpg)
