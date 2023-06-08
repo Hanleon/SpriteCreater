@@ -11,3 +11,5 @@ Sep2. select direction, Left->Right / Up->Down
 Sep3. set width and height line number, and image format  
 Sep4. set final image width pixel  
 Sep5. output  
+![image](https://github.com/Hanleon/SpriteCreater/blob/main/4.jpg)  
+![image](https://github.com/Hanleon/SpriteCreater/blob/main/5.jpg)  
