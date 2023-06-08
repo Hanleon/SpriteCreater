@@ -15,3 +15,13 @@ Sep5. output__
 ![image](https://github.com/Hanleon/SpriteCreater/blob/main/2.jpg)  
 ![image](https://github.com/Hanleon/SpriteCreater/blob/main/4.jpg)  
 ![image](https://github.com/Hanleon/SpriteCreater/blob/main/5.jpg)  
+
+## pngs -> sprite  
+__Sep1. choose sprite image  
+Sep2. select direction, Left->Right / Up->Down  
+Sep3. set width and height line number, and image format  
+Sep4. output__  
+  
+![image](https://github.com/Hanleon/SpriteCreater/blob/main/3.jpg)  
+![image](https://github.com/Hanleon/SpriteCreater/blob/main/6.jpg)  
+![image](https://github.com/Hanleon/SpriteCreater/blob/main/7.jpg)  
