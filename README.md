@@ -29,5 +29,5 @@ Sep4. output__
 
 # V1.1.0
 ![image](https://github.com/Hanleon/SpriteCreater/blob/main/8.jpg)  
-## Update
+#### Update
 Automatic calculate best width and height size.
