@@ -25,3 +25,7 @@ Sep4. output__
 ![image](https://github.com/Hanleon/SpriteCreater/blob/main/3.jpg)  
 ![image](https://github.com/Hanleon/SpriteCreater/blob/main/6.jpg)  
 ![image](https://github.com/Hanleon/SpriteCreater/blob/main/7.jpg)  
+
+
+# V1.1.0
+![image](https://github.com/Hanleon/SpriteCreater/blob/main/8.jpg)  
