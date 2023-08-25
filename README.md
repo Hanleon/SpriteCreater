@@ -34,9 +34,11 @@ Sep4. output__
 2. Automatic calculate best width and height size.
 
 
+
 # V1.2.0
 #### Update
 1. Fix BUG
+
 
 
 # V1.3.0
